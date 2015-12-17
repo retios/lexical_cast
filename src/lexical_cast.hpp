@@ -8,8 +8,8 @@
 //        Created:  2015-12-17 10:32:48
 //       Revision:  none
 // 
-//         Author:  wendyhu (csuwenbinhu@gmail.com)
-//      Copyright:  Copyright (c) 2010, Tencent Co.Ltd
+//         Author:  retio (csuwenbinhu@gmail.com)
+//      Copyright:  Copyright (c) 2015, retio Co.Ltd
 // 
 // =====================================================================================
 
